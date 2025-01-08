@@ -20,7 +20,6 @@ Library    SeleniumLibrary
 
 
 *** Keywords ***
-เข้า google และใส่คำค้น
 
 ```
 
