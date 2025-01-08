@@ -48,6 +48,11 @@
 
 
    *** Test Cases ***
+   ทดสอบค้นหา PIM ควรจะต้องเจอ สถาบันการจัดการปัญญาภิวัฒน์
+       Open Browser    url=https://www.google.com    browser=chrome
+       Input Text    id=APjFqb    text=PIM
+       Press Keys    None    RETURN
+       Wait Until Page Contains    สถาบันการจัดการปัญญาภิวัฒน์
 
 
    *** Keywords ***
