@@ -8,3 +8,11 @@
 4. [Robotframework-selenium-part-01](./Robotframework-selenium-part-01.md)
 5. [Robotframework-selenium-part-02](./Robotframework-selenium-part-02.md)
 6. [Robotframework-selenium-part-03](./Robotframework-selenium-part-03.md)
+7. [Metrics report](./Metrics-report.md)
+
+---
+
+## Workshop
+
+1. [day1-2](./google/)
+2. [day3](./mall/)
